@@ -8,7 +8,7 @@ middle_name:
 last_name: Math Team
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-   "Poly's team competes in local and national math contests, including MATHCOUNTS, AMC 8, Math League, Vanguard Math Tournament, Purple Comet!, and more. We welcome all interested middle school students, regardless of background or experience."
+   "Poly's middle school team competes in local and national math contests, including MATHCOUNTS, AMC 8, Math League, Vanguard Math Tournament, Purple Comet!, and more. We welcome all interested middle school students, regardless of background or experience."
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
