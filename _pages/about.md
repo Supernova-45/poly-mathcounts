@@ -9,12 +9,10 @@ profile:
   image: 
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1030 E California Blvd</p>
-    <p>Pasadena, CA, 91106</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 **Poly's middle school math team** provides an outlet for students to explore **mathematics** and **problem-solving** that extends beyond the scope of the traditional school curriculum.
