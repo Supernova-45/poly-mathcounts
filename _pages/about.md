@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Etc.
+subtitle: <em>Affiliated with <a href='https://www.polytechnic.org/'>Polytechnic School</a> in Pasadena, CA.</em>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1030 E California Blvd</p>
@@ -17,6 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Poly's team competes in local and national math contests, including MATHCOUNTS, AMC 8, Math League, Vanguard Math Tournament, Purple Comet!, and more. We welcome all interested middle school students, regardless of background or experience.
+**Poly's middle school math team** provides an outlet for students to explore **mathematics** and **problem-solving** that extends beyond the scope of the traditional school curriculum.
 
-Meetings take place on Mondays and Thursdays from 3:30-5pm in the 6th grade English classroom.
+By competing in **local and national math contests** -- including MATHCOUNTS, the AMC 8, Math League, Vanguard Math Tournament, and Purple Comet! -- students tackle challenging problems, collaborate closely with classmates, and forge community across grade levels.  
+
+All interested middle school students, regardless of background or experience, are welcome to participate.
+
+**Meetings take place on Mondays and Thursdays from 3:30-5pm in the 6th grade English classroom.**
