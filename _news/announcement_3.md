@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-1-18
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+17 students took the nationwide AMC 8 exam for the first time, and Poly scored well above the national average. Three sixth-graders landed on the Achievement Roll. 
