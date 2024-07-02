@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
+plugins:         [jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
@@ -10,8 +11,8 @@ relative_permalinks: true
 title:            Polytechnic Middle School Math Team
 tagline:          "Polytechnic School's middle school math team"
 description:      "Poly's team competes in local and national math contests, including MATHCOUNTS, AMC 8, Math League, Vanguard Math Tournament, Purple Comet!, and more. We welcome all interested middle school students, regardless of background or experience."
-url:              http://supernova-45.github.io/polymath
-baseurl:          /
+url:              http://supernova-45.github.io
+baseurl:          /polymath
 
 author:
   name:           'Alexandra Kim'
