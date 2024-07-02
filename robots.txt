@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://supernova-45.github.io/polymath/sitemap.xml
