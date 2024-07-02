@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            Polytechnic Middle School Math Team
+tagline:          'Polytechnic School's middle school math team'
+description:      'Poly's team competes in local and national math contests, including MATHCOUNTS, AMC 8, Math League, Vanguard Math Tournament, Purple Comet!, and more. We welcome all interested middle school students, regardless of background or experience.'
+url:              http://supernova-45.github.io/polymathcounts
+baseurl:          http://supernova-45.github.io/polymathcounts
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Alexandra Kim'
+  url:            
 
 paginate:         5
 
