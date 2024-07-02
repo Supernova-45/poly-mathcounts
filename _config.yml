@@ -8,14 +8,14 @@ relative_permalinks: true
 
 # Setup
 title:            Polytechnic Middle School Math Team
-tagline:          'Polytechnic School's middle school math team'
-description:      'Poly's team competes in local and national math contests, including MATHCOUNTS, AMC 8, Math League, Vanguard Math Tournament, Purple Comet!, and more. We welcome all interested middle school students, regardless of background or experience.'
-url:              http://supernova-45.github.io/polymathcounts
-baseurl:          http://supernova-45.github.io/polymathcounts
+tagline:          "Polytechnic School's middle school math team"
+description:      "Poly's team competes in local and national math contests, including MATHCOUNTS, AMC 8, Math League, Vanguard Math Tournament, Purple Comet!, and more. We welcome all interested middle school students, regardless of background or experience."
+url:              http://supernova-45.github.io/polymath
+baseurl:          /
 
 author:
   name:           'Alexandra Kim'
-  url:            
+  url:            https://twitter.com/mdo
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/Supernova-45/polymath 
