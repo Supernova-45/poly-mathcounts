@@ -13,7 +13,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: poly_logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://supernova-45.github.io # the base hostname & protocol for your site
 baseurl: /polymath # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -129,8 +129,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Panther Mathletes # blog_name will be displayed in your blog page
-blog_description: Following Poly's math team
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_description: Following Poly's middle school mathletes
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -294,8 +294,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["team", "individual", "national", "local", "fun"] # these tags will be displayed on the front page of your blog
+display_categories: ["contests", "resources"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

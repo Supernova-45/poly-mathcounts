@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Math Team 23-24
-date: 2024-11-2
+title: Inaugural Math Team
+date: 2023-11-2
 description: In its inaugural season, 30 middle school students signed up for Poly's math team.
 tags: team
 categories: roster
