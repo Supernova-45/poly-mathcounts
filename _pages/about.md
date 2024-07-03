@@ -5,7 +5,7 @@ permalink: /
 subtitle: <em>Affiliated with <a href='https://www.polytechnic.org/'>Polytechnic School</a> in Pasadena, CA.</em>
 
 profile:
-  align: right
+  align: left
   image: animation.gif
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -22,3 +22,6 @@ By competing in **local and national math contests** -- including MATHCOUNTS, th
 All interested middle school students, regardless of background or experience, are welcome to participate.
 
 **Meetings take place on Mondays and Thursdays from 3:30-5pm in the 6th grade English classroom.**
+
+**Contact akim24@students.polytechnic.org with questions.**
+
