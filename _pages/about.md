@@ -23,5 +23,4 @@ All interested middle school students, regardless of background or experience, a
 
 **Meetings take place on Mondays and Thursdays from 3:30-5pm in the 6th grade English classroom.**
 
-**Contact akim24@students.polytechnic.org with questions.**
-
+**Contact akim24@students.polytechnic.org.**
