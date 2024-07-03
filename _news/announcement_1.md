@@ -1,7 +1,8 @@
 ---
 layout: post
+title: 2024 MATHCOUNTS Chapter Competition
 date: 2024-2-24 15:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 

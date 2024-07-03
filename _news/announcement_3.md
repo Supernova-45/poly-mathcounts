@@ -1,7 +1,8 @@
 ---
 layout: post
+title: 2024 AMC 8
 date: 2024-1-18
-inline: true
+inline: false
 related_posts: false
 ---
 

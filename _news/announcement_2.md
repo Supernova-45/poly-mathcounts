@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Vanguard Math Tournament
 date: 2024-4-11
-inline: true
+inline: false
 related_posts: false
 ---
 
