@@ -129,7 +129,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: News # blog_name will be displayed in your blog page
+blog_name: Panther Mathletes # blog_name will be displayed in your blog page
 blog_description: Following Poly's math team
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
